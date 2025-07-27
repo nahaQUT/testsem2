@@ -1,6 +1,6 @@
 #create welcome function
 def welcome():
     print("Welcome to IFN 636!")
-    print("Main conflict commit!")
+    print("conflict resolved!")
 #function calling
 welcome()
